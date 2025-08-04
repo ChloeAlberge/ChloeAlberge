@@ -62,11 +62,6 @@ After 10+ years in business and team leadership, I'm now on an exciting journey 
 - 🐳 Dockerized full-stack application
 -->
 
-## 📈 GitHub Stats
-
-![Chloé's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChloeAlberge&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeAlberge&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/chloé-alberge-a4603a35)
