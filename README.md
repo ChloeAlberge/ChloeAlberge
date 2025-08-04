@@ -64,7 +64,7 @@ After 10+ years in business and team leadership, I'm now on an exciting journey 
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/chloé-alberge-a4603a35)
+- 💼 **LinkedIn**: (https://linkedin.com/in/chloé-alberge-a4603a35)
 - 📧 **Email**: chloealberge@gmail.com
 - 📍 **Location**: Île-de-France, France
 - 🌐 **Available for**: Internships, apprenticeships, and networking
