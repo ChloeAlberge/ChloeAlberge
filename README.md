@@ -21,25 +21,24 @@ A decade in B2B sales and team leadership before deciding the next chapter neede
 
 ## Some of my projects
 
-**Voyalis** — a fictional pre-sales case study built around a travel-tech scenario. Client discovery, an AI-driven solution proposal (predictive risk scoring, NLP classification, generative summarization), C4 architecture.
-→ [Case study](#) · [Figma](#)
+**Voyalis**: a fictional pre-sales case study built around a travel-tech scenario. Client discovery, an AI-driven solution proposal (predictive risk scoring, NLP classification, generative summarization), C4 architecture. Full write-up coming soon on my portfolio site.
+Figma: https://www.figma.com/proto/WUg6MlzkNeSKq7plfcXif4/Voyalis-Avant-vente?node-id=35-132&t=NihCZ6LUOC6NzGdt-1
 
-**talk-to-your-crm** — a working AI agent that queries a simulated CRM in natural language, built with Claude's tool-use API. The same class of AI techniques from Voyalis, applied to a real, running system.
-→ [Repo](#)
+**talk-to-your-crm**: a working AI agent that queries a simulated CRM in natural language, built with Claude's tool-use API. The same class of AI techniques from Voyalis, applied to a real, running system.
+Repo: https://github.com/ChloeAlberge/talk-to-your-crm
 
-**Cancer Connect** — my final CDA exam project, and the most technically involved: a community platform connecting cancer patients and their loved ones through pathology- and age-based discussion groups, with real-time chat (Socket.io), a hybrid PostgreSQL/MongoDB architecture, JWT + refresh token authentication, a CI pipeline (GitHub Actions, 104 tests), and accessibility built in from the start (high contrast, large text, simplified navigation) for users affected by fatigue or treatment side effects. *Repo currently private, still under active development — happy to walk through a live demo.*
-→ [Repo](#)
+**Cancer Connect**: my final CDA exam project, and the most technically involved. A community platform connecting cancer patients and their loved ones through pathology and age-based discussion groups, with real-time chat (Socket.io), a hybrid PostgreSQL/MongoDB architecture, JWT and refresh token authentication, a CI pipeline (GitHub Actions, 104 tests), and accessibility built in from the start (high contrast, large text, simplified navigation) for users affected by fatigue or treatment side effects. Repo currently private, still under active development. Happy to walk through a live demo.
 
-**De la Fonte** — a gym-tracking PWA, deployed and installed as a working Android app.
-→ [Repo](#)
+**De la Fonte**: a gym-tracking PWA, deployed and installed as a working Android app.
+Repo: https://github.com/ChloeAlberge/de-la-fonte
 
 ## Background
 
 - 10+ years B2B sales and team leadership
-- CDA certification, École O'clock — JavaScript/TypeScript, React, Node.js, SQL, Docker, UML, Agile/Scrum
+- CDA certification, École O'clock. JavaScript/TypeScript, React, Node.js, SQL, Docker, UML, Agile/Scrum
 - Fluent in French and English, intermediate (B1) in Dutch
 - Based in Île-de-France
 
 ## Get in touch
 
-Open to Solution Engineer and B2B tech sales roles, available now. LinkedIn — [Chloé Alberge](https://linkedin.com/in/chloé-alberge-a4603a35)
+Open to Solution Engineer and B2B tech sales roles, available now. LinkedIn: https://linkedin.com/in/chloé-alberge-a4603a35
