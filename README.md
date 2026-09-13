@@ -1,75 +1,45 @@
-# Hi there, I'm Chloé! 👋
+# Chloé Alberge
 
-## 🚀 From Business Leadership to Full-Stack Development
+Solution Engineer. 10+ years in B2B sales leadership, CDA-certified developer.
 
-**Career Changer | Full-Stack Developer in Training**
+A decade in B2B sales and team leadership before deciding the next chapter needed both sides of the table: understanding what a client actually needs, and being able to build the answer. A CDA (Concepteur Développeur d'Applications, France's Level 6 dev certification) gave me the technical half.
 
-After 10+ years in business and team leadership, I'm now on an exciting journey to become a Full-Stack Web Developer. Currently pursuing a **Level 6 Professional Title** (equivalent to Bachelor's degree) in **Application Design and Development** at **École O'clock** (Jan-Aug 2025).
+## Stack
 
-## 🎯 What I'm Looking For
-
-**Seeking internship/apprenticeship opportunities** where I can leverage both my technical skills and business acumen to create impactful, user-focused digital solutions.
-
-## 💻 Tech Stack & Skills
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-### Backend & Database
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-
-### DevOps & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Currently Learning
-- **Python & Django** (Self-taught)
-- **Microservices Architecture**
-- **CI/CD Practices**
-- **Advanced Testing (Unit & Integration)**
+*Currently exploring: Salesforce tools, Python, Blender, Three.js, Figma*
 
-## 🌟 What Makes Me Different
+## Some of my projects
 
-**Business-Minded Developer**: I bring a unique perspective that bridges technical development and business strategy:
-- **Commercial Problem-Solving**: Understanding user needs and business requirements
-- **Team Leadership**: Experience managing cross-functional teams
-- **Strategic Thinking**: Ability to see the bigger picture and long-term impact
+**Voyalis** — a fictional pre-sales case study built around a travel-tech scenario. Client discovery, an AI-driven solution proposal (predictive risk scoring, NLP classification, generative summarization), C4 architecture.
+→ [Case study](#) · [Figma](#)
 
-## 📚 Current Focus (2025)
+**talk-to-your-crm** — a working AI agent that queries a simulated CRM in natural language, built with Claude's tool-use API. The same class of AI techniques from Voyalis, applied to a real, running system.
+→ [Repo](#)
 
-**École O'clock Intensive Training Program**
-- **Duration**: January - August 2025
-- **Format**: Remote, intensive, project-based learning
-- **Specializations**: Full-stack development, DevOps, modern architecture patterns
+**Cancer Connect** — my final CDA exam project, and the most technically involved: a community platform connecting cancer patients and their loved ones through pathology- and age-based discussion groups, with real-time chat (Socket.io), a hybrid PostgreSQL/MongoDB architecture, JWT + refresh token authentication, a CI pipeline (GitHub Actions, 104 tests), and accessibility built in from the start (high contrast, large text, simplified navigation) for users affected by fatigue or treatment side effects. *Repo currently private, still under active development — happy to walk through a live demo.*
+→ [Repo](#)
 
-## 🎨 Featured Projects
+**De la Fonte** — a gym-tracking PWA, deployed and installed as a working Android app.
+→ [Repo](#)
 
-*🚧 Coming soon! Currently building exciting projects as part of my training at O'clock.*
+## Background
 
-<!-- Will be updated with:
-- 📱 React.js web application
-- 🔧 Node.js API with database integration
-- 🐍 Python/Django web application  
-- 🐳 Dockerized full-stack application
--->
+- 10+ years B2B sales and team leadership
+- CDA certification, École O'clock — JavaScript/TypeScript, React, Node.js, SQL, Docker, UML, Agile/Scrum
+- Fluent in French and English, intermediate (B1) in Dutch
+- Based in Île-de-France
 
-## 🤝 Let's Connect!
+## Get in touch
 
-- 💼 **LinkedIn**: [Chloé Alberge](https://linkedin.com/in/chloé-alberge-a4603a35)
-- 📧 **Email**: chloealberge@gmail.com
-- 📍 **Location**: Île-de-France, France
-- 🌐 **Available for**: Internships, apprenticeships, and networking
-
----
-
-🎨 **When not coding**: Strength training 🏋️ | Guitar 🎸 | Hiking 🥾
+Open to Solution Engineer and B2B tech sales roles, available now. LinkedIn — [Chloé Alberge](https://linkedin.com/in/chloé-alberge-a4603a35)
