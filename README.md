@@ -25,7 +25,7 @@ A decade in B2B sales and team leadership before deciding the next chapter neede
 A fictional pre-sales case study built around a travel-tech scenario. Client discovery, an AI-driven solution proposal (predictive risk scoring, NLP classification, generative summarization), C4 architecture. Full write-up coming soon on my portfolio site.
 📎 [Figma](https://www.figma.com/proto/WUg6MIzkNeSKq7plfcXif4/Voyalis-Avant-vente?node-id=35-132&t=NihCZ6LUOC6NzGdt-1)
 
-### talk-to-your-crm
+### Talk-to-your-crm
 A working AI agent that queries a simulated CRM in natural language, built with Claude's tool-use API. The same class of AI techniques from Voyalis, applied to a real, running system.
 📎 [Repo](https://github.com/ChloeAlberge/talk-to-your-crm)
 
