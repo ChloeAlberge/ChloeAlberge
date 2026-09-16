@@ -18,6 +18,9 @@ A decade in B2B sales and team leadership before deciding the next chapter neede
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
 
 *Currently exploring: Salesforce tools, Python, Blender, Three.js, Figma*
 
